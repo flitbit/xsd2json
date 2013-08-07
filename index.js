@@ -1,0 +1,1 @@
+var component = require('./lib');
