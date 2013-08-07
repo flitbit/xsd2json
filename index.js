@@ -1,1 +1,1 @@
-var component = require('./lib');
+module.exports = require('./lib');
