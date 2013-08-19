@@ -65,7 +65,7 @@
  </xs:annotation>
 
   <xs:annotation>
-    <xs:documentation  source="../structures/structures.html">
+    <xs:documentation source="../structures/structures.html">
    The schema corresponding to this document is normative,
    with respect to the syntactic constraints it expresses in the
    XML Schema Definition Language.  The documentation (within 'documentation' elements)
