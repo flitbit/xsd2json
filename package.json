@@ -1,0 +1,23 @@
+{
+	"name": "xsdtojsonschema",
+	"version": "0.0.1",
+	"author": "Todd Bennion <tbennion@netsteps.com>",
+	"description": "An XSD to JSON schema converter.",
+	"keywords": ["XSD", "JSON schema", "converter", "XML", "JSON"],
+	"main": "index.js",
+	"directories": {
+		"lib": "lib",
+		"example": "examples",
+		"test": "test"
+	},
+	"scripts": {
+		"test": "mocha -R spec"
+	},
+	"dependencies": {
+	 },
+	"devDependencies": {
+			"expect.js": "*",
+			"mocha": "*",
+			"flatiron": "*"
+	}
+}
